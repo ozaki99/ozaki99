@@ -9,5 +9,3 @@
 .ask for collaborate
  
 .to reach me ---> [click me!](mailto:m.ozturk1251@gmail.com)
-
-<a href="mailto:m.ozturk1251@gmail.com"> also this </a>
