@@ -1,10 +1,8 @@
 👋 ```Hello World!```
 
-! my name is **Mustafa Ozturk**, I'm 18 years old and living in Turkey.
+! my name is **Mustafa Ozturk**, I'm 20 years old and living in Turkey.
 
 .I’m interested in *< coding >*
-
-.and currently *learning* ***Java***
 
 .ask for collaborate
  
