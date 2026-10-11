@@ -1,9 +1,9 @@
 👋 ```Hello World!```
 
-! my name is **Mustafa Ozturk**, I'm 20 years old and living in Turkey.
+! my name is **Mustafa Ozturk**,
 
-.I’m interested in *< coding >*
+.I’m basically a **_"jack of all trades"_**
 
 .ask for collaborate
  
-.to reach me ---> [click me!](mailto:m.ozturk1251@gmail.com)
+.to reach me ---> [my mail adress](mailto:m.ozturk1251@gmail.com)
